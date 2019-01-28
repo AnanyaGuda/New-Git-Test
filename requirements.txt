@@ -1,0 +1,8 @@
+Docker
+Kubernetes
+Jerkins
+Teraform
+Ansible
+Python
+Amazon Web Services
+Git
